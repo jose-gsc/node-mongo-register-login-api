@@ -1,4 +1,4 @@
-﻿{
-    "connectionString": "mongodb+srv://joseadmin:jose2468@#$@role-api.vpse5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "secret": "jose2468@#$"
+{
+    "connectionString": "mongodb+srv://joseadmin:Jose2468@#4@role-api.vpse5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "Jose2468@#$"
 }
